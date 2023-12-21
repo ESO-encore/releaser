@@ -15,3 +15,10 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+.settings/
+
+modified/
+original/
+patches/
+
+*.7z
